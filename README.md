@@ -1,6 +1,6 @@
 # CRUD App
 
-Create a web application that leverages the power of Angular and the sleek user interface components of Material-UI to facilitate seamless Create, Read, Update, and Delete (CRUD) operations. Coupled with a JSON server, this application provides a robust platform for managing data with ease and efficiency.
+Built a web application that leverages the power of Angular and the sleek user interface components of Material-UI to facilitate seamless Create, Read, Update, and Delete (CRUD) operations. Coupled with a JSON server, this application provides a robust platform for managing data with ease and efficiency.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
