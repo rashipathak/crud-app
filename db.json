@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Rashi",
+      "lastName": "Pathak",
+      "email": "raship9119@gmail.com",
+      "dob": "2000-08-18T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 4,
+      "package": 4500000,
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@gmail.com",
+      "dob": "2023-05-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "testing",
+      "experience": 3,
+      "package": 2300000,
+      "id": 2
+    },
+    {
+      "firstName": "test1",
+      "lastName": "user2",
+      "email": "testuser@yahoo.com",
+      "dob": "2023-04-30T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "microsoft",
+      "experience": 3,
+      "package": 23000,
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 4
+    },
+    {
+      "firstName": "Kuldeep",
+      "lastName": "Singh",
+      "email": "kuldeepsingh43169@gmail.com",
+      "dob": "2001-08-16T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Microsoft",
+      "experience": 1,
+      "package": 5500000,
+      "id": 5
+    }
+  ]
+}
